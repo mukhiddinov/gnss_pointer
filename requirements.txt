@@ -1,0 +1,4 @@
+pyserial>=3.5
+colorama>=0.4.6
+RPi.GPIO>=0.7.1
+python-dotenv>=1.0.1
